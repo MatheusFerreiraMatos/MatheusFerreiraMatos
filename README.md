@@ -1,4 +1,4 @@
-## Olá! 👋 sou o Matheus Mattos
+## Olá! 👋 sou o Matheus Matos
 
 - 📷 Hoje trabalho na SPTECH
 - 🌱 Estudando sobre a cultura DevOps
