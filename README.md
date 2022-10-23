@@ -1,7 +1,7 @@
 ## Olá! 👋 sou o Matheus Matos
 
 - 📷 Hoje trabalho na SPTECH
-- 🌱 Estudando sobre a cultura DevOps
+- 🌱 Estudando sobre Cloud Computing
 
 <div align="center">
   <a href="https://github.com/matheusferreira079">
