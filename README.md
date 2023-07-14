@@ -1,6 +1,6 @@
 ## Olá! 👋 sou o Matheus,
 
-- 📷 Hoje trabalho na SPTECH
+- 📷 Hoje trabalho na SPTech
 - 🌱 Estudando sobre Cloud Computing
 
 <div align="center">
