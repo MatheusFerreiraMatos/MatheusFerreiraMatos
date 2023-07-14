@@ -1,7 +1,7 @@
 ## Olá! 👋 sou o Matheus,
 
-- 📷 Hoje trabalho na SPTech
-- 🌱 Estudando sobre Cloud Computing
+- 💼 Hoje trabalho na SPTech
+- ☁️ Estudando sobre Cloud Computing
 - 🎓 Formado em ADS
 
 <div align="center">
