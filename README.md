@@ -2,6 +2,7 @@
 
 - 📷 Hoje trabalho na SPTech
 - 🌱 Estudando sobre Cloud Computing
+- 🎓 Formado em ADS
 
 <div align="center">
   <a href="https://github.com/MatheusFerreiraMatos">
