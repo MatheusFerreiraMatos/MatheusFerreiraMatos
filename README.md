@@ -2,7 +2,7 @@
 
 ## Olá! 👋 sou o Matheus,
 
-- 💼 Hoje trabalho na SPTech
+- 💼 Hoje trabalho na SPTech/BandTec
 - ☁️ Estudando sobre Cloud Computing
 - 🎓 Formado em ADS
 
