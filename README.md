@@ -4,7 +4,7 @@
 
 - 💼 Hoje trabalho na SPTech/BandTec
 - ☁️ Viajando na cloud
-- 🎓 Formado em ADS
+- 🎓 Formado em ADS - SPTech
 - 🏗️ Pós-graduando em Arquitetura de Soluções - PUC
 
 <div align="center">
