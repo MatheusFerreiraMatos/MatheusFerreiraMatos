@@ -34,7 +34,7 @@
 #### Top Repositories
 
 <a href="https://github.com/BandTec/BobIA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BandTec&repo=BobIA&theme=buefy" style="width: 400px; height: auto;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BandTec&repo=BobIAA&theme=buefy" style="width: 400px; height: auto;" />
 </a>
 <a href="https://github.com/BandTec/web-data-viz.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BandTec&repo=web-data-viz&theme=buefy" style="width: 400px; height: auto;" />
