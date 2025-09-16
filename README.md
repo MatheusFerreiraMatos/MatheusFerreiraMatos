@@ -1,11 +1,11 @@
 [![Header](https://github.com/MatheusFerreiraMatos/MatheusFerreiraMatos/blob/main/capa.png "Header")](https://www.linkedin.com/in/matheus-matos-0644bb224/)
 
-## Olá! 👋 sou o Matheus,
+## Olá! 👋
 
-- 💼 Hoje trabalho na SPTech/BandTec
-- ☁️ Viajando na cloud
+- 💼 Sou professor na SPTech/BandTec
 - 🎓 Formado em ADS - SPTech
-- 🏗️ Pós-graduando em Arquitetura de Soluções - PUC
+- 🏗️ Pós-graduado em Arquitetura de Soluções - PUC
+- 👨‍🏫 Pós-graduado em Docência no Ensino Superior - UNOPAR
 
 <div align="center">
   <a href="https://github.com/MatheusFerreiraMatos">
