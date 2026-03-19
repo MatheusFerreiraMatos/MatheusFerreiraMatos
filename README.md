@@ -6,6 +6,7 @@
 - 🎓 Formado em ADS - SPTech
 - 🏗️ Pós-graduado em Arquitetura de Soluções - PUC
 - 👨‍🏫 Pós-graduado em Docência no Ensino Superior - UNOPAR
+- 🛡️ Pós-graduando em Cybersecurity - FIA
 
 <div align="center">
   <a href="https://github.com/MatheusFerreiraMatos">
